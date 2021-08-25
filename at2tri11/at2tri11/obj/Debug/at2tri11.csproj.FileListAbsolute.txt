@@ -1,0 +1,10 @@
+C:\Users\giova\source\repos\at2tri11\at2tri11\bin\Debug\at2tri11.exe.config
+C:\Users\giova\source\repos\at2tri11\at2tri11\bin\Debug\at2tri11.exe
+C:\Users\giova\source\repos\at2tri11\at2tri11\bin\Debug\at2tri11.pdb
+C:\Users\giova\source\repos\at2tri11\at2tri11\obj\Debug\at2tri11.csprojAssemblyReference.cache
+C:\Users\giova\source\repos\at2tri11\at2tri11\obj\Debug\at2tri11.Form1.resources
+C:\Users\giova\source\repos\at2tri11\at2tri11\obj\Debug\at2tri11.Properties.Resources.resources
+C:\Users\giova\source\repos\at2tri11\at2tri11\obj\Debug\at2tri11.csproj.GenerateResource.cache
+C:\Users\giova\source\repos\at2tri11\at2tri11\obj\Debug\at2tri11.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\at2tri11\at2tri11\obj\Debug\at2tri11.exe
+C:\Users\giova\source\repos\at2tri11\at2tri11\obj\Debug\at2tri11.pdb
